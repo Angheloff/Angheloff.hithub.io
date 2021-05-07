@@ -1,0 +1,63 @@
+
+.altura-a-b {
+    padding: 100px 0;
+}
+
+.icono-redes-header {
+    width: 20px;
+    margin: 10px 10px;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    bottom: 20px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    color: #000000;
+    text-align: center;
+}
+
+
+
+
+footer {
+    background: #212529;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+  }
+  
+  .contenedor-footer {
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .content-foo {
+    text-align: center;
+  }
+  
+  .content-foo h4 {
+    color: #fff;
+    border-bottom: 3px solid #fca311;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .content-foo p {
+    color: #ccc;
+  }
+  
+  .titulo-final {
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0 0 0;
+    color: #9e9797;
+  }
+  
